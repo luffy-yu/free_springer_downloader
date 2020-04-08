@@ -1,1957 +1,2037 @@
-{
-  "Fundamentals of Power Electronics": {
+[
+  {
     "Book Title": "Fundamentals of Power Electronics",
     "DOI URL": "http://doi.org/10.1007/b100747",
     "Electronic ISBN": "978-0-306-48048-5"
   },
-  "Handbook of the Life Course": {
+  {
     "Book Title": "Handbook of the Life Course",
     "DOI URL": "http://doi.org/10.1007/b100507",
     "Electronic ISBN": "978-0-306-48247-2"
   },
-  "All of Statistics": {
+  {
     "Book Title": "All of Statistics",
     "DOI URL": "http://doi.org/10.1007/978-0-387-21736-9",
     "Electronic ISBN": "978-0-387-21736-9"
   },
-  "Social Anxiety and Social Phobia in Youth": {
+  {
     "Book Title": "Social Anxiety and Social Phobia in Youth",
     "DOI URL": "http://doi.org/10.1007/b99417",
     "Electronic ISBN": "978-0-387-22592-0"
   },
-  "Discrete Mathematics": {
+  {
     "Book Title": "Discrete Mathematics",
     "DOI URL": "http://doi.org/10.1007/b97469",
     "Electronic ISBN": "978-0-387-21777-2"
   },
-  "Developmental Neurobiology": {
+  {
     "Book Title": "Developmental Neurobiology",
     "DOI URL": "http://doi.org/10.1007/0-387-28117-7",
     "Electronic ISBN": "978-0-387-28117-9"
   },
-  "Intuitive Probability and Random Processes using MATLAB®": {
+  {
     "Book Title": "Intuitive Probability and Random Processes using MATLAB®",
     "DOI URL": "http://doi.org/10.1007/b104645",
     "Electronic ISBN": "978-0-387-24158-6"
   },
-  "Handbook of Disaster Research": {
+  {
     "Book Title": "Handbook of Disaster Research",
     "DOI URL": "http://doi.org/10.1007/978-0-387-32353-4",
     "Electronic ISBN": "978-0-387-32353-4"
   },
-  "Handbook of the Sociology of Gender": {
+  {
     "Book Title": "Handbook of the Sociology of Gender",
     "DOI URL": "http://doi.org/10.1007/0-387-36218-5",
     "Electronic ISBN": "978-0-387-36218-2"
   },
-  "Handbook of Sociological Theory": {
+  {
     "Book Title": "Handbook of Sociological Theory",
     "DOI URL": "http://doi.org/10.1007/0-387-36274-6",
     "Electronic ISBN": "978-0-387-36274-8"
   },
-  "Clinical Neuroanatomy": {
+  {
     "Book Title": "Clinical Neuroanatomy",
     "DOI URL": "http://doi.org/10.1007/978-0-387-36601-2",
     "Electronic ISBN": "978-0-387-36601-2"
   },
-  "Acquired Brain Injury": {
+  {
     "Book Title": "Acquired Brain Injury",
     "DOI URL": "http://doi.org/10.1007/978-0-387-37575-5",
     "Electronic ISBN": "978-0-387-37575-5"
   },
-  "Numerical Optimization": {
+  {
     "Book Title": "Numerical Optimization",
     "DOI URL": "http://doi.org/10.1007/978-0-387-40065-5",
     "Electronic ISBN": "978-0-387-40065-5"
   },
-  "Handbook of Biological Confocal Microscopy": {
+  {
     "Book Title": "Handbook of Biological Confocal Microscopy",
     "DOI URL": "http://doi.org/10.1007/978-0-387-45524-2",
     "Electronic ISBN": "978-0-387-45524-2"
   },
-  "Ceramic Materials": {
+  {
     "Book Title": "Ceramic Materials",
-    "DOI URL": "http://doi.org/10.1007/978-1-4614-3523-5",
-    "Electronic ISBN": "978-1-4614-3523-5"
+    "DOI URL": "http://doi.org/10.1007/978-0-387-46271-4",
+    "Electronic ISBN": "978-0-387-46271-4"
   },
-  "Principles of Fluorescence Spectroscopy": {
+  {
     "Book Title": "Principles of Fluorescence Spectroscopy",
     "DOI URL": "http://doi.org/10.1007/978-0-387-46312-4",
     "Electronic ISBN": "978-0-387-46312-4"
   },
-  "Fundamentals of Biomechanics": {
+  {
     "Book Title": "Fundamentals of Biomechanics",
-    "DOI URL": "http://doi.org/10.1007/978-3-319-44738-4",
-    "Electronic ISBN": "978-3-319-44738-4"
+    "DOI URL": "http://doi.org/10.1007/978-0-387-49312-1",
+    "Electronic ISBN": "978-0-387-49312-1"
   },
-  "Primer on the Rheumatic Diseases": {
+  {
     "Book Title": "Primer on the Rheumatic Diseases",
     "DOI URL": "http://doi.org/10.1007/978-0-387-68566-3",
     "Electronic ISBN": "978-0-387-68566-3"
   },
-  "International Handbook of Historical Archaeology": {
+  {
     "Book Title": "International Handbook of Historical Archaeology",
     "DOI URL": "http://doi.org/10.1007/978-0-387-72071-5",
     "Electronic ISBN": "978-0-387-72071-5"
   },
-  "Database Marketing": {
+  {
     "Book Title": "Database Marketing",
     "DOI URL": "http://doi.org/10.1007/978-0-387-72579-6",
     "Electronic ISBN": "978-0-387-72579-6"
   },
-  "Composite Materials": {
+  {
     "Book Title": "Composite Materials",
     "DOI URL": "http://doi.org/10.1007/978-0-387-74365-3",
     "Electronic ISBN": "978-0-387-74365-3"
   },
-  "Time Series Analysis": {
+  {
     "Book Title": "Time Series Analysis",
     "DOI URL": "http://doi.org/10.1007/978-0-387-75959-3",
     "Electronic ISBN": "978-0-387-75959-3"
   },
-  "Transmission Electron Microscopy": {
+  {
     "Book Title": "Transmission Electron Microscopy",
-    "DOI URL": "http://doi.org/10.1007/978-1-4757-2519-3",
-    "Electronic ISBN": "978-1-4757-2519-3"
+    "DOI URL": "http://doi.org/10.1007/978-0-387-76501-3",
+    "Electronic ISBN": "978-0-387-76501-3"
   },
-  "Handbook of Quantitative Criminology": {
+  {
     "Book Title": "Handbook of Quantitative Criminology",
     "DOI URL": "http://doi.org/10.1007/978-0-387-77650-7",
     "Electronic ISBN": "978-0-387-77650-7"
   },
-  "Plant Physiological Ecology": {
+  {
     "Book Title": "Plant Physiological Ecology",
     "DOI URL": "http://doi.org/10.1007/978-0-387-78341-3",
     "Electronic ISBN": "978-0-387-78341-3"
   },
-  "Introductory Statistics with R": {
+  {
     "Book Title": "Introductory Statistics with R",
     "DOI URL": "http://doi.org/10.1007/978-0-387-79054-1",
     "Electronic ISBN": "978-0-387-79054-1"
   },
-  "The Elements of Statistical Learning": {
+  {
     "Book Title": "The Elements of Statistical Learning",
     "DOI URL": "http://doi.org/10.1007/978-0-387-84858-7",
     "Electronic ISBN": "978-0-387-84858-7"
   },
-  "Psychology, Religion, and Spirituality": {
+  {
     "Book Title": "Psychology, Religion, and Spirituality",
     "DOI URL": "http://doi.org/10.1007/978-0-387-87573-6",
     "Electronic ISBN": "978-0-387-87573-6"
   },
-  "Introductory Time Series with R": {
+  {
     "Book Title": "Introductory Time Series with R",
     "DOI URL": "http://doi.org/10.1007/978-0-387-88698-5",
     "Electronic ISBN": "978-0-387-88698-5"
   },
-  "Child Neuropsychology": {
+  {
     "Book Title": "Child Neuropsychology",
     "DOI URL": "http://doi.org/10.1007/978-0-387-88963-4",
     "Electronic ISBN": "978-0-387-88963-4"
   },
-  "A Beginner's Guide to R": {
+  {
     "Book Title": "A Beginner's Guide to R",
     "DOI URL": "http://doi.org/10.1007/978-0-387-93837-0",
     "Electronic ISBN": "978-0-387-93837-0"
   },
-  "Geomorphology of Desert Environments": {
+  {
     "Book Title": "Geomorphology of Desert Environments",
     "DOI URL": "http://doi.org/10.1007/978-1-4020-5719-9",
     "Electronic ISBN": "978-1-4020-5719-9"
   },
-  "The Joy of Science": {
+  {
     "Book Title": "The Joy of Science",
     "DOI URL": "http://doi.org/10.1007/978-1-4020-6099-1",
     "Electronic ISBN": "978-1-4020-6099-1"
   },
-  "Fatigue of Structures and Materials": {
+  {
     "Book Title": "Fatigue of Structures and Materials",
     "DOI URL": "http://doi.org/10.1007/978-1-4020-6808-9",
     "Electronic ISBN": "978-1-4020-6808-9"
   },
-  "Essential Astrophysics": {
+  {
     "Book Title": "Essential Astrophysics",
     "DOI URL": "http://doi.org/10.1007/978-3-642-35963-7",
     "Electronic ISBN": "978-3-642-35963-7"
   },
-  "Introduction to Evolutionary Computing": {
+  {
     "Book Title": "Introduction to Evolutionary Computing",
     "DOI URL": "http://doi.org/10.1007/978-3-662-44874-8",
     "Electronic ISBN": "978-3-662-44874-8"
   },
-  "Data Analysis": {
+  {
     "Book Title": "Data Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-319-03762-2",
     "Electronic ISBN": "978-3-319-03762-2"
   },
-  "International Perspectives on Psychotherapy": {
+  {
     "Book Title": "International Perspectives on Psychotherapy",
     "DOI URL": "http://doi.org/10.1007/978-3-319-56194-3",
     "Electronic ISBN": "978-3-319-56194-3"
   },
-  "Electrical Machines": {
+  {
     "Book Title": "Electrical Machines",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-0400-2",
     "Electronic ISBN": "978-1-4614-0400-2"
   },
-  "Mechanics and Thermodynamics": {
+  {
     "Book Title": "Mechanics and Thermodynamics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-27877-3",
     "Electronic ISBN": "978-3-319-27877-3"
   },
-  "Applied Behavior Analysis": {
+  {
     "Book Title": "Applied Behavior Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-319-44794-0",
     "Electronic ISBN": "978-3-319-44794-0"
   },
-  "Reading, Writing, and Proving": {
+  {
     "Book Title": "Reading, Writing, and Proving",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-9479-0",
     "Electronic ISBN": "978-1-4419-9479-0"
   },
-  "Linear and Nonlinear Programming": {
+  {
     "Book Title": "Linear and Nonlinear Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-319-18842-3",
     "Electronic ISBN": "978-3-319-18842-3"
   },
-  "Introduction to Partial Differential Equations": {
+  {
     "Book Title": "Introduction to Partial Differential Equations",
-    "DOI URL": "http://doi.org/10.1007/978-3-319-02099-0",
-    "Electronic ISBN": "978-3-319-02099-0"
+    "DOI URL": "http://doi.org/10.1007/978-3-319-48936-0",
+    "Electronic ISBN": "978-3-319-48936-0"
   },
-  "Energy Storage": {
+  {
     "Book Title": "Energy Storage",
     "DOI URL": "http://doi.org/10.1007/978-3-319-21239-5",
     "Electronic ISBN": "978-3-319-21239-5"
   },
-  "Metabolism of Human Diseases": {
+  {
     "Book Title": "Metabolism of Human Diseases",
     "DOI URL": "http://doi.org/10.1007/978-3-7091-0715-7",
     "Electronic ISBN": "978-3-7091-0715-7"
   },
-  "Sensory Evaluation of Food": {
+  {
     "Book Title": "Sensory Evaluation of Food",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-6488-5",
     "Electronic ISBN": "978-1-4419-6488-5"
   },
-  "Fundamentals of Robotic Mechanical Systems": {
+  {
     "Book Title": "Fundamentals of Robotic Mechanical Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-01851-5",
     "Electronic ISBN": "978-3-319-01851-5"
   },
-  "Integrative Human Biochemistry": {
+  {
     "Book Title": "Integrative Human Biochemistry",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-3058-6",
     "Electronic ISBN": "978-1-4939-3058-6"
   },
-  "Philosophy of Science for Scientists": {
+  {
     "Book Title": "Philosophy of Science for Scientists",
     "DOI URL": "http://doi.org/10.1007/978-3-319-26551-3",
     "Electronic ISBN": "978-3-319-26551-3"
   },
-  "Particles and Nuclei": {
+  {
     "Book Title": "Particles and Nuclei",
     "DOI URL": "http://doi.org/10.1007/978-3-662-46321-5",
     "Electronic ISBN": "978-3-662-46321-5"
   },
-  "Data Structures and Algorithms with Python": {
+  {
     "Book Title": "Data Structures and Algorithms with Python",
     "DOI URL": "http://doi.org/10.1007/978-3-319-13072-9",
     "Electronic ISBN": "978-3-319-13072-9"
   },
-  "LGBT-Parent Families": {
+  {
     "Book Title": "LGBT-Parent Families",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-4556-2",
     "Electronic ISBN": "978-1-4614-4556-2"
   },
-  "Integrated Neuroscience": {
+  {
     "Book Title": "Integrated Neuroscience",
     "DOI URL": "http://doi.org/10.1007/978-1-4615-1077-2",
     "Electronic ISBN": "978-1-4615-1077-2"
   },
-  "Microeconomics": {
+  {
+    "Book Title": "Introduction to Partial Differential Equations",
+    "DOI URL": "http://doi.org/10.1007/978-3-319-02099-0",
+    "Electronic ISBN": "978-3-319-02099-0"
+  },
+  {
     "Book Title": "Microeconomics",
     "DOI URL": "http://doi.org/10.1007/978-3-642-37434-0",
     "Electronic ISBN": "978-3-642-37434-0"
   },
-  "System Dynamics": {
+  {
     "Book Title": "System Dynamics",
     "DOI URL": "http://doi.org/10.1007/978-981-10-2045-2",
     "Electronic ISBN": "978-981-10-2045-2"
   },
-  "Cosmology for the Curious": {
+  {
     "Book Title": "Cosmology for the Curious",
     "DOI URL": "http://doi.org/10.1007/978-3-319-57040-2",
     "Electronic ISBN": "978-3-319-57040-2"
   },
-  "Methods of Mathematical Modelling": {
+  {
     "Book Title": "Methods of Mathematical Modelling",
     "DOI URL": "http://doi.org/10.1007/978-3-319-23042-9",
     "Electronic ISBN": "978-3-319-23042-9"
   },
-  "Introduction to Logic Circuits & Logic Design with Verilog": {
+  {
     "Book Title": "Introduction to Logic Circuits & Logic Design with Verilog",
-    "DOI URL": "http://doi.org/10.1007/978-3-030-13605-5",
-    "Electronic ISBN": "978-3-030-13605-5"
+    "DOI URL": "http://doi.org/10.1007/978-3-319-53883-9",
+    "Electronic ISBN": "978-3-319-53883-9"
   },
-  "Structural Analysis": {
+  {
     "Book Title": "Structural Analysis",
     "DOI URL": "http://doi.org/10.1007/978-90-481-2516-6",
     "Electronic ISBN": "978-90-481-2516-6"
   },
-  "Engineering Flow and Heat Exchange": {
+  {
     "Book Title": "Engineering Flow and Heat Exchange",
     "DOI URL": "http://doi.org/10.1007/978-1-4899-7454-9",
     "Electronic ISBN": "978-1-4899-7454-9"
   },
-  "Enterprise Risk Management Models": {
+  {
     "Book Title": "Enterprise Risk Management Models",
     "DOI URL": "http://doi.org/10.1007/978-3-662-53785-5",
     "Electronic ISBN": "978-3-662-53785-5"
   },
-  "Reactive Power Control in AC Power Systems": {
+  {
     "Book Title": "Reactive Power Control in AC Power Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-51118-4",
     "Electronic ISBN": "978-3-319-51118-4"
   },
-  "Principles of Microeconomics": {
+  {
     "Book Title": "Principles of Microeconomics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-57589-6",
     "Electronic ISBN": "978-3-319-57589-6"
   },
-  "Additive Manufacturing Technologies": {
+  {
     "Book Title": "Additive Manufacturing Technologies",
-    "DOI URL": "http://doi.org/10.1007/978-1-4939-2113-3",
-    "Electronic ISBN": "978-1-4939-2113-3"
+    "DOI URL": "http://doi.org/10.1007/978-1-4419-1120-9",
+    "Electronic ISBN": "978-1-4419-1120-9"
   },
-  "Principles of Physics": {
+  {
     "Book Title": "Principles of Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-642-23026-4",
     "Electronic ISBN": "978-3-642-23026-4"
   },
-  "Irrigation and Drainage Engineering": {
+  {
+    "Book Title": "Fundamentals of Biomechanics",
+    "DOI URL": "http://doi.org/10.1007/978-3-319-44738-4",
+    "Electronic ISBN": "978-3-319-44738-4"
+  },
+  {
     "Book Title": "Irrigation and Drainage Engineering",
     "DOI URL": "http://doi.org/10.1007/978-3-319-05699-9",
     "Electronic ISBN": "978-3-319-05699-9"
   },
-  "LaTeX in 24 Hours": {
+  {
     "Book Title": "LaTeX in 24 Hours",
     "DOI URL": "http://doi.org/10.1007/978-3-319-47831-9",
     "Electronic ISBN": "978-3-319-47831-9"
   },
-  "Psychology of Perception": {
+  {
     "Book Title": "Psychology of Perception",
     "DOI URL": "http://doi.org/10.1007/978-3-319-31791-5",
     "Electronic ISBN": "978-3-319-31791-5"
   },
-  "Extragalactic Astronomy and Cosmology": {
+  {
     "Book Title": "Extragalactic Astronomy and Cosmology",
     "DOI URL": "http://doi.org/10.1007/978-3-642-54083-7",
     "Electronic ISBN": "978-3-642-54083-7"
   },
-  "Automata and Computability": {
+  {
     "Book Title": "Automata and Computability",
     "DOI URL": "http://doi.org/10.1007/978-1-4612-1844-9",
     "Electronic ISBN": "978-1-4612-1844-9"
   },
-  "The Algorithm Design Manual": {
+  {
     "Book Title": "The Algorithm Design Manual",
     "DOI URL": "http://doi.org/10.1007/978-1-84800-070-4",
     "Electronic ISBN": "978-1-84800-070-4"
   },
-  "Chemical Thermodynamics": {
+  {
     "Book Title": "Chemical Thermodynamics",
     "DOI URL": "http://doi.org/10.1007/978-3-642-19864-9",
     "Electronic ISBN": "978-3-642-19864-9"
   },
-  "Computational Physics": {
+  {
     "Book Title": "Computational Physics",
-    "DOI URL": "http://doi.org/10.1007/978-3-319-00401-3",
-    "Electronic ISBN": "978-3-319-00401-3"
+    "DOI URL": "http://doi.org/10.1007/978-3-319-61088-7",
+    "Electronic ISBN": "978-3-319-61088-7"
   },
-  "Introduction to Statistics and Data Analysis ": {
+  {
     "Book Title": "Introduction to Statistics and Data Analysis ",
     "DOI URL": "http://doi.org/10.1007/978-3-319-46162-5",
     "Electronic ISBN": "978-3-319-46162-5"
   },
-  "Grammar for Teachers": {
+  {
     "Book Title": "Grammar for Teachers",
     "DOI URL": "http://doi.org/10.1007/978-3-319-33916-0",
     "Electronic ISBN": "978-3-319-33916-0"
   },
-  "Time Series Econometrics": {
+  {
     "Book Title": "Time Series Econometrics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-32862-1",
     "Electronic ISBN": "978-3-319-32862-1"
   },
-  "Electrochemistry": {
+  {
     "Book Title": "Electrochemistry",
     "DOI URL": "http://doi.org/10.1007/978-3-642-30250-3",
     "Electronic ISBN": "978-3-642-30250-3"
   },
-  "Classical Fourier Analysis": {
+  {
     "Book Title": "Classical Fourier Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-1194-3",
     "Electronic ISBN": "978-1-4939-1194-3"
   },
-  "Human Chromosomes": {
+  {
     "Book Title": "Human Chromosomes",
     "DOI URL": "http://doi.org/10.1007/978-1-4613-0139-4",
     "Electronic ISBN": "978-1-4613-0139-4"
   },
-  "Phylogenomics": {
+  {
     "Book Title": "Phylogenomics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-54064-1",
     "Electronic ISBN": "978-3-319-54064-1"
   },
-  "Quantum Theory for Mathematicians": {
+  {
     "Book Title": "Quantum Theory for Mathematicians",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-7116-5",
     "Electronic ISBN": "978-1-4614-7116-5"
   },
-  "Evidence-Based Critical Care": {
+  {
     "Book Title": "Evidence-Based Critical Care",
     "DOI URL": "http://doi.org/10.1007/978-3-319-43341-7",
     "Electronic ISBN": "978-3-319-43341-7"
   },
-  "Clinical Assessment of Child and Adolescent Personality and Behavior": {
+  {
     "Book Title": "Clinical Assessment of Child and Adolescent Personality and Behavior",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-0641-0",
     "Electronic ISBN": "978-1-4419-0641-0"
   },
-  "Design Research in Information Systems": {
+  {
     "Book Title": "Design Research in Information Systems",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-5653-8",
     "Electronic ISBN": "978-1-4419-5653-8"
   },
-  "Intermediate Physics for Medicine and Biology": {
+  {
     "Book Title": "Intermediate Physics for Medicine and Biology",
     "DOI URL": "http://doi.org/10.1007/978-3-319-12682-1",
     "Electronic ISBN": "978-3-319-12682-1"
   },
-  "Principles of Data Mining": {
+  {
     "Book Title": "Principles of Data Mining",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-7307-6",
     "Electronic ISBN": "978-1-4471-7307-6"
   },
-  "Fundamental Astronomy": {
+  {
     "Book Title": "Fundamental Astronomy",
     "DOI URL": "http://doi.org/10.1007/978-3-662-53045-0",
     "Electronic ISBN": "978-3-662-53045-0"
   },
-  "Fundamentals of Business Process Management": {
+  {
     "Book Title": "Fundamentals of Business Process Management",
-    "DOI URL": "http://doi.org/10.1007/978-3-662-56509-4",
-    "Electronic ISBN": "978-3-662-56509-4"
+    "DOI URL": "http://doi.org/10.1007/978-3-642-33143-5",
+    "Electronic ISBN": "978-3-642-33143-5"
   },
-  "Brownian Motion, Martingales, and Stochastic Calculus ": {
+  {
     "Book Title": "Brownian Motion, Martingales, and Stochastic Calculus ",
     "DOI URL": "http://doi.org/10.1007/978-3-319-31089-3",
     "Electronic ISBN": "978-3-319-31089-3"
   },
-  "UML @ Classroom": {
+  {
     "Book Title": "UML @ Classroom",
     "DOI URL": "http://doi.org/10.1007/978-3-319-12742-2",
     "Electronic ISBN": "978-3-319-12742-2"
   },
-  "Design and Analysis of Experiments": {
+  {
     "Book Title": "Design and Analysis of Experiments",
     "DOI URL": "http://doi.org/10.1007/978-3-319-52250-0",
     "Electronic ISBN": "978-3-319-52250-0"
   },
-  "Foundations for Designing User-Centered Systems": {
+  {
     "Book Title": "Foundations for Designing User-Centered Systems",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-5134-0",
     "Electronic ISBN": "978-1-4471-5134-0"
   },
-  "Handbook of Consumer Finance Research": {
+  {
     "Book Title": "Handbook of Consumer Finance Research",
     "DOI URL": "http://doi.org/10.1007/978-3-319-28887-1",
     "Electronic ISBN": "978-3-319-28887-1"
   },
-  "Principles of Terrestrial Ecosystem Ecology": {
+  {
     "Book Title": "Principles of Terrestrial Ecosystem Ecology",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-9504-9",
     "Electronic ISBN": "978-1-4419-9504-9"
   },
-  "Applied Multivariate Statistical Analysis": {
+  {
     "Book Title": "Applied Multivariate Statistical Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-662-45171-7",
     "Electronic ISBN": "978-3-662-45171-7"
   },
-  "Strategic International Management": {
+  {
     "Book Title": "Strategic International Management",
-    "DOI URL": "http://doi.org/10.1007/978-3-658-07884-3",
-    "Electronic ISBN": "978-3-658-07884-3"
+    "DOI URL": "http://doi.org/10.1007/978-3-8349-6331-4",
+    "Electronic ISBN": "978-3-8349-6331-4"
   },
-  "Computer Vision": {
+  {
     "Book Title": "Computer Vision",
     "DOI URL": "http://doi.org/10.1007/978-1-84882-935-0",
     "Electronic ISBN": "978-1-84882-935-0"
   },
-  "Engineering Electromagnetics": {
+  {
     "Book Title": "Engineering Electromagnetics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-07806-9",
     "Electronic ISBN": "978-3-319-07806-9"
   },
-  "Data Mining": {
+  {
     "Book Title": "Data Mining",
     "DOI URL": "http://doi.org/10.1007/978-3-319-14142-8",
     "Electronic ISBN": "978-3-319-14142-8"
   },
-  "International Trade Theory and Policy": {
+  {
     "Book Title": "International Trade Theory and Policy",
     "DOI URL": "http://doi.org/10.1007/978-3-642-37314-5",
     "Electronic ISBN": "978-3-642-37314-5"
   },
-  "Alternative Energy Sources": {
+  {
     "Book Title": "Alternative Energy Sources",
     "DOI URL": "http://doi.org/10.1007/978-3-642-20951-2",
     "Electronic ISBN": "978-3-642-20951-2"
   },
-  "Introduction to Electronic Commerce and Social Commerce": {
+  {
     "Book Title": "Introduction to Electronic Commerce and Social Commerce",
     "DOI URL": "http://doi.org/10.1007/978-3-319-50091-1",
     "Electronic ISBN": "978-3-319-50091-1"
   },
-  "Computational Geometry": {
+  {
     "Book Title": "Computational Geometry",
     "DOI URL": "http://doi.org/10.1007/978-3-540-77974-2",
     "Electronic ISBN": "978-3-540-77974-2"
   },
-  "Elementary Mechanics Using Python": {
+  {
     "Book Title": "Elementary Mechanics Using Python",
     "DOI URL": "http://doi.org/10.1007/978-3-319-19596-4",
     "Electronic ISBN": "978-3-319-19596-4"
   },
-  "Energy Economics": {
+  {
     "Book Title": "Energy Economics",
     "DOI URL": "http://doi.org/10.1007/978-3-662-53022-1",
     "Electronic ISBN": "978-3-662-53022-1"
   },
-  "Biomedical Informatics": {
+  {
     "Book Title": "Biomedical Informatics",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-4474-8",
     "Electronic ISBN": "978-1-4471-4474-8"
   },
-  "Robotics, Vision and Control": {
+  {
     "Book Title": "Robotics, Vision and Control",
-    "DOI URL": "http://doi.org/10.1007/978-3-642-20144-8",
-    "Electronic ISBN": "978-3-642-20144-8"
+    "DOI URL": "http://doi.org/10.1007/978-3-319-54413-7",
+    "Electronic ISBN": "978-3-319-54413-7"
   },
-  "Acid-Base Diagrams": {
+  {
     "Book Title": "Acid-Base Diagrams",
     "DOI URL": "http://doi.org/10.1007/978-3-642-37902-4",
     "Electronic ISBN": "978-3-642-37902-4"
   },
-  "Brewing Science: A Multidisciplinary Approach": {
+  {
     "Book Title": "Brewing Science: A Multidisciplinary Approach",
     "DOI URL": "http://doi.org/10.1007/978-3-319-46394-0",
     "Electronic ISBN": "978-3-319-46394-0"
   },
-  "Learning Landscape Ecology": {
+  {
     "Book Title": "Learning Landscape Ecology",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-6374-4",
     "Electronic ISBN": "978-1-4939-6374-4"
   },
-  "Probability": {
+  {
     "Book Title": "Probability",
     "DOI URL": "http://doi.org/10.1007/978-1-4612-4374-8",
     "Electronic ISBN": "978-1-4612-4374-8"
   },
-  "Modeling Life": {
+  {
     "Book Title": "Modeling Life",
     "DOI URL": "http://doi.org/10.1007/978-3-319-59731-7",
     "Electronic ISBN": "978-3-319-59731-7"
   },
-  "Introduction to Plasma Physics and Controlled Fusion": {
+  {
     "Book Title": "Introduction to Plasma Physics and Controlled Fusion",
     "DOI URL": "http://doi.org/10.1007/978-3-319-22309-4",
     "Electronic ISBN": "978-3-319-22309-4"
   },
-  "Engineering Mechanics 1": {
+  {
     "Book Title": "Engineering Mechanics 1",
     "DOI URL": "http://doi.org/10.1007/978-3-642-30319-7",
     "Electronic ISBN": "978-3-642-30319-7"
   },
-  "Principles of Polymer Chemistry": {
+  {
     "Book Title": "Principles of Polymer Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-2212-9",
     "Electronic ISBN": "978-1-4614-2212-9"
   },
-  "A Primer on Scientific Programming with Python": {
+  {
     "Book Title": "A Primer on Scientific Programming with Python",
     "DOI URL": "http://doi.org/10.1007/978-3-662-49887-3",
     "Electronic ISBN": "978-3-662-49887-3"
   },
-  "Climate Change Science: A Modern Synthesis": {
+  {
     "Book Title": "Climate Change Science: A Modern Synthesis",
     "DOI URL": "http://doi.org/10.1007/978-94-007-5757-8",
     "Electronic ISBN": "978-94-007-5757-8"
   },
-  "Solar PV and Wind Energy Conversion Systems": {
+  {
     "Book Title": "Solar PV and Wind Energy Conversion Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-14941-7",
     "Electronic ISBN": "978-3-319-14941-7"
   },
-  "Statistical Analysis and Data Display": {
+  {
     "Book Title": "Statistical Analysis and Data Display",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-2122-5",
     "Electronic ISBN": "978-1-4939-2122-5"
   },
-  "Business Process Management Cases": {
+  {
     "Book Title": "Business Process Management Cases",
     "DOI URL": "http://doi.org/10.1007/978-3-319-58307-5",
     "Electronic ISBN": "978-3-319-58307-5"
   },
-  "Elementary Analysis": {
+  {
     "Book Title": "Elementary Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-6271-2",
     "Electronic ISBN": "978-1-4614-6271-2"
   },
-  "Cryptography Made Simple": {
+  {
     "Book Title": "Cryptography Made Simple",
     "DOI URL": "http://doi.org/10.1007/978-3-319-21936-3",
     "Electronic ISBN": "978-3-319-21936-3"
   },
-  "Fluid Dynamics": {
+  {
     "Book Title": "Fluid Dynamics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-09351-2",
     "Electronic ISBN": "978-3-319-09351-2"
   },
-  "Social Media Management": {
+  {
     "Book Title": "Social Media Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-21990-5",
     "Electronic ISBN": "978-3-319-21990-5"
   },
-  "Statistics in Criminal Justice": {
+  {
     "Book Title": "Statistics in Criminal Justice",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-9170-5",
     "Electronic ISBN": "978-1-4614-9170-5"
   },
-  "Supply Chain Management and Advanced Planning": {
+  {
     "Book Title": "Supply Chain Management and Advanced Planning",
     "DOI URL": "http://doi.org/10.1007/978-3-642-55309-7",
     "Electronic ISBN": "978-3-642-55309-7"
   },
-  "Probability Theory": {
+  {
     "Book Title": "Probability Theory",
-    "DOI URL": "http://doi.org/10.1007/978-1-4471-5361-0",
-    "Electronic ISBN": "978-1-4471-5361-0"
+    "DOI URL": "http://doi.org/10.1007/978-1-4471-5201-9",
+    "Electronic ISBN": "978-1-4471-5201-9"
   },
-  "Statistics and Data Analysis for Financial Engineering": {
+  {
     "Book Title": "Statistics and Data Analysis for Financial Engineering",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-2614-5",
     "Electronic ISBN": "978-1-4939-2614-5"
   },
-  "Readings in Formal Epistemology": {
+  {
     "Book Title": "Readings in Formal Epistemology",
     "DOI URL": "http://doi.org/10.1007/978-3-319-20451-2",
     "Electronic ISBN": "978-3-319-20451-2"
   },
-  "Differential Equations and Their Applications": {
+  {
     "Book Title": "Differential Equations and Their Applications",
     "DOI URL": "http://doi.org/10.1007/978-1-4612-4360-1",
     "Electronic ISBN": "978-1-4612-4360-1"
   },
-  "Nanotechnology: Principles and Practices": {
+  {
     "Book Title": "Nanotechnology: Principles and Practices",
     "DOI URL": "http://doi.org/10.1007/978-3-319-09171-6",
     "Electronic ISBN": "978-3-319-09171-6"
   },
-  "Epidemiological Research: Terms and Concepts": {
+  {
     "Book Title": "Epidemiological Research: Terms and Concepts",
     "DOI URL": "http://doi.org/10.1007/978-94-007-1171-6",
     "Electronic ISBN": "978-94-007-1171-6"
   },
-  "Multinational Management": {
+  {
     "Book Title": "Multinational Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-23012-2",
     "Electronic ISBN": "978-3-319-23012-2"
   },
-  "Partial Differential Equations": {
+  {
     "Book Title": "Partial Differential Equations",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-4809-9",
     "Electronic ISBN": "978-1-4614-4809-9"
   },
-  "Bayesian and Frequentist Regression Methods": {
+  {
     "Book Title": "Bayesian and Frequentist Regression Methods",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-0925-1",
     "Electronic ISBN": "978-1-4419-0925-1"
   },
-  "Basic Concepts in Computational Physics": {
+  {
+    "Book Title": "Strategic International Management",
+    "DOI URL": "http://doi.org/10.1007/978-3-658-07884-3",
+    "Electronic ISBN": "978-3-658-07884-3"
+  },
+  {
     "Book Title": "Basic Concepts in Computational Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-27265-8",
     "Electronic ISBN": "978-3-319-27265-8"
   },
-  "Eye Tracking Methodology": {
+  {
     "Book Title": "Eye Tracking Methodology",
     "DOI URL": "http://doi.org/10.1007/978-3-319-57883-5",
     "Electronic ISBN": "978-3-319-57883-5"
   },
-  "Writing for Publication": {
+  {
     "Book Title": "Writing for Publication",
     "DOI URL": "http://doi.org/10.1007/978-3-319-31650-5",
     "Electronic ISBN": "978-3-319-31650-5"
   },
-  "Mathematical Physics": {
+  {
     "Book Title": "Mathematical Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-01195-0",
     "Electronic ISBN": "978-3-319-01195-0"
   },
-  "Correctional Counseling and Treatment": {
+  {
     "Book Title": "Correctional Counseling and Treatment",
     "DOI URL": "http://doi.org/10.1007/978-3-319-54349-9",
     "Electronic ISBN": "978-3-319-54349-9"
   },
-  "Thermodynamics and Energy Conversion": {
+  {
     "Book Title": "Thermodynamics and Energy Conversion",
     "DOI URL": "http://doi.org/10.1007/978-3-662-43715-5",
     "Electronic ISBN": "978-3-662-43715-5"
   },
-  "The Action Research Planner": {
+  {
     "Book Title": "The Action Research Planner",
     "DOI URL": "http://doi.org/10.1007/978-981-4560-67-2",
     "Electronic ISBN": "978-981-4560-67-2"
   },
-  "Stochastic Processes and Calculus": {
+  {
     "Book Title": "Stochastic Processes and Calculus",
     "DOI URL": "http://doi.org/10.1007/978-3-319-23428-1",
     "Electronic ISBN": "978-3-319-23428-1"
   },
-  "Statistical Analysis of Clinical Data on a Pocket Calculator": {
+  {
     "Book Title": "Statistical Analysis of Clinical Data on a Pocket Calculator",
     "DOI URL": "http://doi.org/10.1007/978-94-007-1211-9",
     "Electronic ISBN": "978-94-007-1211-9"
   },
-  "Clinical Data Analysis on a Pocket Calculator": {
+  {
     "Book Title": "Clinical Data Analysis on a Pocket Calculator",
     "DOI URL": "http://doi.org/10.1007/978-3-319-27104-0",
     "Electronic ISBN": "978-3-319-27104-0"
   },
-  "The Data Science Design Manual": {
+  {
     "Book Title": "The Data Science Design Manual",
     "DOI URL": "http://doi.org/10.1007/978-3-319-55444-0",
     "Electronic ISBN": "978-3-319-55444-0"
   },
-  "An Introduction to Machine Learning": {
+  {
     "Book Title": "An Introduction to Machine Learning",
     "DOI URL": "http://doi.org/10.1007/978-3-319-63913-0",
     "Electronic ISBN": "978-3-319-63913-0"
   },
-  "Guide to Discrete Mathematics": {
+  {
     "Book Title": "Guide to Discrete Mathematics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-44561-8",
     "Electronic ISBN": "978-3-319-44561-8"
   },
-  "Petroleum Geoscience": {
+  {
     "Book Title": "Petroleum Geoscience",
     "DOI URL": "http://doi.org/10.1007/978-3-642-34132-8",
     "Electronic ISBN": "978-3-642-34132-8"
   },
-  "Structure Determination by X-ray Crystallography": {
+  {
     "Book Title": "Structure Determination by X-ray Crystallography",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-3954-7",
     "Electronic ISBN": "978-1-4614-3954-7"
   },
-  "Introduction to Time Series and Forecasting": {
+  {
     "Book Title": "Introduction to Time Series and Forecasting",
     "DOI URL": "http://doi.org/10.1007/978-3-319-29854-2",
     "Electronic ISBN": "978-3-319-29854-2"
   },
-  "Principles of Mobile Communication": {
+  {
     "Book Title": "Principles of Mobile Communication",
     "DOI URL": "http://doi.org/10.1007/978-3-319-55615-4",
     "Electronic ISBN": "978-3-319-55615-4"
   },
-  "Cardiovascular Biomechanics": {
+  {
     "Book Title": "Cardiovascular Biomechanics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-46407-7",
     "Electronic ISBN": "978-3-319-46407-7"
   },
-  "Introduction to Smooth Manifolds": {
+  {
     "Book Title": "Introduction to Smooth Manifolds",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-9982-5",
     "Electronic ISBN": "978-1-4419-9982-5"
   },
-  "Taxation in European Union": {
+  {
     "Book Title": "Taxation in European Union",
     "DOI URL": "http://doi.org/10.1007/978-3-319-53919-5",
     "Electronic ISBN": "978-3-319-53919-5"
   },
-  "Essentials of Cerebellum and Cerebellar Disorders": {
+  {
     "Book Title": "Essentials of Cerebellum and Cerebellar Disorders",
     "DOI URL": "http://doi.org/10.1007/978-3-319-24551-5",
     "Electronic ISBN": "978-3-319-24551-5"
   },
-  "Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts": {
+  {
     "Book Title": "Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts",
     "DOI URL": "http://doi.org/10.1007/978-981-10-1802-2",
     "Electronic ISBN": "978-981-10-1802-2"
   },
-  "Multivariate Calculus and Geometry": {
+  {
     "Book Title": "Multivariate Calculus and Geometry",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-6419-7",
     "Electronic ISBN": "978-1-4471-6419-7"
   },
-  "Statistics and Analysis of Scientific Data": {
+  {
     "Book Title": "Statistics and Analysis of Scientific Data",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-6572-4",
     "Electronic ISBN": "978-1-4939-6572-4"
   },
-  "Modelling Computing Systems": {
+  {
     "Book Title": "Modelling Computing Systems",
     "DOI URL": "http://doi.org/10.1007/978-1-84800-322-4",
     "Electronic ISBN": "978-1-84800-322-4"
   },
-  "Search Methodologies": {
+  {
     "Book Title": "Search Methodologies",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-6940-7",
     "Electronic ISBN": "978-1-4614-6940-7"
   },
-  "Representation Theory": {
+  {
     "Book Title": "Representation Theory",
     "DOI URL": "http://doi.org/10.1007/978-1-4612-0979-9",
     "Electronic ISBN": "978-1-4612-0979-9"
   },
-  "Linear Algebra Done Right": {
+  {
     "Book Title": "Linear Algebra Done Right",
     "DOI URL": "http://doi.org/10.1007/978-3-319-11080-6",
     "Electronic ISBN": "978-3-319-11080-6"
   },
-  "Stellar Structure and Evolution": {
+  {
     "Book Title": "Stellar Structure and Evolution",
     "DOI URL": "http://doi.org/10.1007/978-3-642-30304-3",
     "Electronic ISBN": "978-3-642-30304-3"
   },
-  "Evolutionary Thinking in Medicine": {
+  {
     "Book Title": "Evolutionary Thinking in Medicine",
     "DOI URL": "http://doi.org/10.1007/978-3-319-29716-3",
     "Electronic ISBN": "978-3-319-29716-3"
   },
-  "Understanding Cryptography": {
+  {
     "Book Title": "Understanding Cryptography",
     "DOI URL": "http://doi.org/10.1007/978-3-642-04101-3",
     "Electronic ISBN": "978-3-642-04101-3"
   },
-  "Linear Algebra": {
+  {
     "Book Title": "Linear Algebra",
     "DOI URL": "http://doi.org/10.1007/978-3-319-24346-7",
     "Electronic ISBN": "978-3-319-24346-7"
   },
-  "Algebra": {
+  {
     "Book Title": "Algebra",
     "DOI URL": "http://doi.org/10.1007/978-1-4613-0041-0",
     "Electronic ISBN": "978-1-4613-0041-0"
   },
-  "Understanding Analysis": {
+  {
     "Book Title": "Understanding Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-2712-8",
     "Electronic ISBN": "978-1-4939-2712-8"
   },
-  "Plate Tectonics": {
+  {
     "Book Title": "Plate Tectonics",
     "DOI URL": "http://doi.org/10.1007/978-3-540-76504-2",
     "Electronic ISBN": "978-3-540-76504-2"
   },
-  "Linear Programming": {
+  {
     "Book Title": "Linear Programming",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-7630-6",
     "Electronic ISBN": "978-1-4614-7630-6"
   },
-  "The Nature of Scientific Knowledge": {
+  {
     "Book Title": "The Nature of Scientific Knowledge",
     "DOI URL": "http://doi.org/10.1007/978-3-319-33405-9",
     "Electronic ISBN": "978-3-319-33405-9"
   },
-  "Leadership Today": {
+  {
     "Book Title": "Leadership Today",
     "DOI URL": "http://doi.org/10.1007/978-3-319-31036-7",
     "Electronic ISBN": "978-3-319-31036-7"
   },
-  "Physics of Semiconductor Devices": {
+  {
     "Book Title": "Physics of Semiconductor Devices",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-1151-6",
     "Electronic ISBN": "978-1-4939-1151-6"
   },
-  "Corporate Social Responsibility": {
+  {
     "Book Title": "Corporate Social Responsibility",
     "DOI URL": "http://doi.org/10.1007/978-3-642-40975-2",
     "Electronic ISBN": "978-3-642-40975-2"
   },
-  "Ordinary Differential Equations": {
+  {
     "Book Title": "Ordinary Differential Equations",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-3618-8",
     "Electronic ISBN": "978-1-4614-3618-8"
   },
-  "Electronic Commerce": {
+  {
     "Book Title": "Electronic Commerce",
     "DOI URL": "http://doi.org/10.1007/978-3-319-10091-3",
     "Electronic ISBN": "978-3-319-10091-3"
   },
-  "Foundations of Analytical Chemistry": {
+  {
+    "Book Title": "Ceramic Materials",
+    "DOI URL": "http://doi.org/10.1007/978-1-4614-3523-5",
+    "Electronic ISBN": "978-1-4614-3523-5"
+  },
+  {
     "Book Title": "Foundations of Analytical Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-3-319-62872-1",
     "Electronic ISBN": "978-3-319-62872-1"
   },
-  "Life Cycle Assessment": {
+  {
     "Book Title": "Life Cycle Assessment",
     "DOI URL": "http://doi.org/10.1007/978-3-319-56475-3",
     "Electronic ISBN": "978-3-319-56475-3"
   },
-  "A Clinical Guide to the Treatment of the Human Stress Response": {
+  {
     "Book Title": "A Clinical Guide to the Treatment of the Human Stress Response",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-5538-7",
     "Electronic ISBN": "978-1-4614-5538-7"
   },
-  "Handbook of LGBT Elders": {
+  {
+    "Book Title": "Computational Physics",
+    "DOI URL": "http://doi.org/10.1007/978-3-319-00401-3",
+    "Electronic ISBN": "978-3-319-00401-3"
+  },
+  {
     "Book Title": "Handbook of LGBT Elders",
     "DOI URL": "http://doi.org/10.1007/978-3-319-03623-6",
     "Electronic ISBN": "978-3-319-03623-6"
   },
-  "Handbook of Cardiac Anatomy, Physiology, and Devices": {
+  {
     "Book Title": "Handbook of Cardiac Anatomy, Physiology, and Devices",
     "DOI URL": "http://doi.org/10.1007/978-3-319-19464-6",
     "Electronic ISBN": "978-3-319-19464-6"
   },
-  "Quantum Mechanics": {
+  {
     "Book Title": "Quantum Mechanics",
-    "DOI URL": "http://doi.org/10.1007/978-1-4612-1272-0",
-    "Electronic ISBN": "978-1-4612-1272-0"
+    "DOI URL": "http://doi.org/10.1007/978-3-642-20556-9",
+    "Electronic ISBN": "978-3-642-20556-9"
   },
-  "Understanding Statistics Using R": {
+  {
     "Book Title": "Understanding Statistics Using R",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-6227-9",
     "Electronic ISBN": "978-1-4614-6227-9"
   },
-  "Mass Spectrometry": {
+  {
     "Book Title": "Mass Spectrometry",
     "DOI URL": "http://doi.org/10.1007/978-3-319-54398-7",
     "Electronic ISBN": "978-3-319-54398-7"
   },
-  "Statistical Mechanics for Engineers": {
+  {
     "Book Title": "Statistical Mechanics for Engineers",
     "DOI URL": "http://doi.org/10.1007/978-3-319-13809-1",
     "Electronic ISBN": "978-3-319-15018-5"
   },
-  "The Gastrointestinal System": {
+  {
     "Book Title": "The Gastrointestinal System",
     "DOI URL": "http://doi.org/10.1007/978-94-017-8771-0",
     "Electronic ISBN": "978-94-017-8771-0"
   },
-  "Magnetic Interactions in Molecules and Solids": {
+  {
+    "Book Title": "Additive Manufacturing Technologies",
+    "DOI URL": "http://doi.org/10.1007/978-1-4939-2113-3",
+    "Electronic ISBN": "978-1-4939-2113-3"
+  },
+  {
     "Book Title": "Magnetic Interactions in Molecules and Solids",
     "DOI URL": "http://doi.org/10.1007/978-3-319-22951-5",
     "Electronic ISBN": "978-3-319-22951-5"
   },
-  "Electricity and Magnetism": {
+  {
     "Book Title": "Electricity and Magnetism",
     "DOI URL": "http://doi.org/10.1007/978-4-431-54526-2",
     "Electronic ISBN": "978-4-431-54526-2"
   },
-  "Survival Analysis": {
+  {
     "Book Title": "Survival Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-6646-9",
     "Electronic ISBN": "978-1-4419-6646-9"
   },
-  "Foundations of Quantum Mechanics": {
+  {
     "Book Title": "Foundations of Quantum Mechanics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-65867-4",
     "Electronic ISBN": "978-3-319-65867-4"
   },
-  "An Introduction to Statistical Learning": {
+  {
     "Book Title": "An Introduction to Statistical Learning",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-7138-7",
     "Electronic ISBN": "978-1-4614-7138-7"
   },
-  "Introduction to Mathematica® for Physicists": {
+  {
     "Book Title": "Introduction to Mathematica® for Physicists",
     "DOI URL": "http://doi.org/10.1007/978-3-319-00894-3",
     "Electronic ISBN": "978-3-319-00894-3"
   },
-  "Statistical Learning from a Regression Perspective": {
+  {
     "Book Title": "Statistical Learning from a Regression Perspective",
     "DOI URL": "http://doi.org/10.1007/978-3-319-44048-4",
     "Electronic ISBN": "978-3-319-44048-4"
   },
-  "Applied Partial Differential Equations": {
+  {
     "Book Title": "Applied Partial Differential Equations",
     "DOI URL": "http://doi.org/10.1007/978-3-319-12493-3",
     "Electronic ISBN": "978-3-319-12493-3"
   },
-  "Principles of Astrophysics": {
+  {
     "Book Title": "Principles of Astrophysics",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-9236-8",
     "Electronic ISBN": "978-1-4614-9236-8"
   },
-  "Air Pollution and Greenhouse Gases": {
+  {
     "Book Title": "Air Pollution and Greenhouse Gases",
     "DOI URL": "http://doi.org/10.1007/978-981-287-212-8",
     "Electronic ISBN": "978-981-287-212-8"
   },
-  "Polymer Synthesis: Theory and Practice": {
+  {
     "Book Title": "Polymer Synthesis: Theory and Practice",
     "DOI URL": "http://doi.org/10.1007/978-3-642-28980-4",
     "Electronic ISBN": "978-3-642-28980-4"
   },
-  "Sustainable Supply Chains": {
+  {
     "Book Title": "Sustainable Supply Chains",
     "DOI URL": "http://doi.org/10.1007/978-3-319-29791-0",
     "Electronic ISBN": "978-3-319-29791-0"
   },
-  "Robotics": {
+  {
     "Book Title": "Robotics",
-    "DOI URL": "http://doi.org/10.1007/978-3-319-72911-4",
-    "Electronic ISBN": "978-3-319-72911-4"
+    "DOI URL": "http://doi.org/10.1007/978-1-84628-642-1",
+    "Electronic ISBN": "978-1-84628-642-1"
   },
-  "Econometrics": {
+  {
     "Book Title": "Econometrics",
     "DOI URL": "http://doi.org/10.1007/978-3-642-20059-5",
     "Electronic ISBN": "978-3-642-20059-5"
   },
-  "The Sea Floor": {
+  {
     "Book Title": "The Sea Floor",
     "DOI URL": "http://doi.org/10.1007/978-3-319-51412-3",
     "Electronic ISBN": "978-3-319-51412-3"
   },
-  "SPSS for Starters and 2nd Levelers": {
+  {
     "Book Title": "SPSS for Starters and 2nd Levelers",
     "DOI URL": "http://doi.org/10.1007/978-3-319-20600-4",
     "Electronic ISBN": "978-3-319-20600-4"
   },
-  "Regression Modeling Strategies": {
+  {
     "Book Title": "Regression Modeling Strategies",
     "DOI URL": "http://doi.org/10.1007/978-3-319-19425-7",
     "Electronic ISBN": "978-3-319-19425-7"
   },
-  "Legal Dynamics of EU External Relations": {
+  {
     "Book Title": "Legal Dynamics of EU External Relations",
     "DOI URL": "http://doi.org/10.1007/978-3-662-54817-2",
     "Electronic ISBN": "978-3-662-54817-2"
   },
-  "Food Analysis Laboratory Manual": {
+  {
     "Book Title": "Food Analysis Laboratory Manual",
     "DOI URL": "http://doi.org/10.1007/978-3-319-44127-6",
     "Electronic ISBN": "978-3-319-44127-6"
   },
-  "Principles of Musical Acoustics": {
+  {
     "Book Title": "Principles of Musical Acoustics",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-6786-1",
     "Electronic ISBN": "978-1-4614-6786-1"
   },
-  "Fundamentals of Structural Engineering": {
+  {
     "Book Title": "Fundamentals of Structural Engineering",
     "DOI URL": "http://doi.org/10.1007/978-3-319-24331-3",
     "Electronic ISBN": "978-3-319-24331-3"
   },
-  "Basics of Laser Physics": {
+  {
     "Book Title": "Basics of Laser Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-50651-7",
     "Electronic ISBN": "978-3-319-50651-7"
   },
-  "Applied Quantitative Finance": {
+  {
     "Book Title": "Applied Quantitative Finance",
     "DOI URL": "http://doi.org/10.1007/978-3-662-54486-0",
     "Electronic ISBN": "978-3-662-54486-0"
   },
-  "Handbook of Marriage and the Family": {
+  {
     "Book Title": "Handbook of Marriage and the Family",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-3987-5",
     "Electronic ISBN": "978-1-4614-3987-5"
   },
-  "Solid-State Physics": {
+  {
     "Book Title": "Solid-State Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-540-93804-0",
     "Electronic ISBN": "978-3-540-93804-0"
   },
-  "Electrochemical Impedance Spectroscopy and its Applications": {
+  {
     "Book Title": "Electrochemical Impedance Spectroscopy and its Applications",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-8933-7",
     "Electronic ISBN": "978-1-4614-8933-7"
   },
-  "Economics as Applied Ethics": {
+  {
     "Book Title": "Economics as Applied Ethics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-50319-6",
     "Electronic ISBN": "978-3-319-50319-6"
   },
-  "Electronics for Embedded Systems": {
+  {
     "Book Title": "Electronics for Embedded Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-39439-8",
     "Electronic ISBN": "978-3-319-39439-8"
   },
-  "Concise Guide to Software Engineering": {
+  {
     "Book Title": "Concise Guide to Software Engineering",
     "DOI URL": "http://doi.org/10.1007/978-3-319-57750-0",
     "Electronic ISBN": "978-3-319-57750-0"
   },
-  "Fundamentals of Multimedia": {
+  {
     "Book Title": "Fundamentals of Multimedia",
     "DOI URL": "http://doi.org/10.1007/978-3-319-05290-8",
     "Electronic ISBN": "978-3-319-05290-8"
   },
-  "Logistics": {
+  {
     "Book Title": "Logistics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-01769-3",
     "Electronic ISBN": "978-3-319-01769-3"
   },
-  "Group Theory Applied to Chemistry": {
+  {
     "Book Title": "Group Theory Applied to Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-94-007-6863-5",
     "Electronic ISBN": "978-94-007-6863-5"
   },
-  "The Psychology of Social Status": {
+  {
     "Book Title": "The Psychology of Social Status",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-0867-7",
     "Electronic ISBN": "978-1-4939-0867-7"
   },
-  "A Modern Introduction to Probability and Statistics": {
+  {
     "Book Title": "A Modern Introduction to Probability and Statistics",
     "DOI URL": "http://doi.org/10.1007/1-84628-168-7",
     "Electronic ISBN": "978-1-84628-168-6"
   },
-  "Complex Analysis": {
+  {
     "Book Title": "Complex Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4419-7288-0",
     "Electronic ISBN": "978-1-4419-7288-0"
   },
-  "Food Chemistry": {
+  {
     "Book Title": "Food Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-3-540-69934-7",
     "Electronic ISBN": "978-3-540-69934-7"
   },
-  "Exam Survival Guide: Physical Chemistry": {
+  {
     "Book Title": "Exam Survival Guide: Physical Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-3-319-49810-2",
     "Electronic ISBN": "978-3-319-49810-2"
   },
-  "The Python Workbook": {
+  {
     "Book Title": "The Python Workbook",
     "DOI URL": "http://doi.org/10.1007/978-3-319-14240-1",
     "Electronic ISBN": "978-3-319-14240-1"
   },
-  "Practical Electrical Engineering": {
+  {
     "Book Title": "Practical Electrical Engineering",
     "DOI URL": "http://doi.org/10.1007/978-3-319-21173-2",
     "Electronic ISBN": "978-3-319-21173-2"
   },
-  "Strategic Retail Management": {
+  {
     "Book Title": "Strategic Retail Management",
     "DOI URL": "http://doi.org/10.1007/978-3-658-10183-1",
     "Electronic ISBN": "978-3-658-10183-1"
   },
-  "Food Analysis": {
+  {
     "Book Title": "Food Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-319-45776-5",
     "Electronic ISBN": "978-3-319-45776-5"
   },
-  "Psychoeducational Assessment and Report Writing": {
+  {
     "Book Title": "Psychoeducational Assessment and Report Writing",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-1911-6",
     "Electronic ISBN": "978-1-4939-1911-6"
   },
-  "Machine Learning in Medicine - a Complete Overview": {
+  {
     "Book Title": "Machine Learning in Medicine - a Complete Overview",
     "DOI URL": "http://doi.org/10.1007/978-3-319-15195-3",
     "Electronic ISBN": "978-3-319-15195-3"
   },
-  "Evidence-Based Interventions for Children with Challenging Behavior": {
+  {
     "Book Title": "Evidence-Based Interventions for Children with Challenging Behavior",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-7807-2",
     "Electronic ISBN": "978-1-4614-7807-2"
   },
-  "Principles of Quantum Mechanics": {
+  {
     "Book Title": "Principles of Quantum Mechanics",
     "DOI URL": "http://doi.org/10.1007/978-1-4757-0576-8",
     "Electronic ISBN": "978-1-4757-0576-8"
   },
-  "Recommender Systems": {
+  {
     "Book Title": "Recommender Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-29659-3",
     "Electronic ISBN": "978-3-319-29659-3"
   },
-  "Pharmaceutical Biotechnology": {
+  {
     "Book Title": "Pharmaceutical Biotechnology",
-    "DOI URL": "http://doi.org/10.1007/978-3-030-00710-2",
-    "Electronic ISBN": "978-3-030-00710-2"
+    "DOI URL": "http://doi.org/10.1007/978-1-4614-6486-0",
+    "Electronic ISBN": "978-1-4614-6486-0"
   },
-  "Python Programming Fundamentals": {
+  {
     "Book Title": "Python Programming Fundamentals",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-6642-9",
     "Electronic ISBN": "978-1-4471-6642-9"
   },
-  "The Finite Element Method and Applications in Engineering Using ANSYS®": {
+  {
     "Book Title": "The Finite Element Method and Applications in Engineering Using ANSYS®",
     "DOI URL": "http://doi.org/10.1007/978-1-4899-7550-8",
     "Electronic ISBN": "978-1-4899-7550-8"
   },
-  "Group Theory": {
+  {
     "Book Title": "Group Theory",
     "DOI URL": "http://doi.org/10.1007/978-3-540-32899-5",
     "Electronic ISBN": "978-3-540-32899-5"
   },
-  "Object-Oriented Analysis, Design and Implementation": {
+  {
     "Book Title": "Object-Oriented Analysis, Design and Implementation",
     "DOI URL": "http://doi.org/10.1007/978-3-319-24280-4",
     "Electronic ISBN": "978-3-319-24280-4"
   },
-  "Introduction to Embedded Systems": {
+  {
     "Book Title": "Introduction to Embedded Systems",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-3143-5",
     "Electronic ISBN": "978-1-4614-3143-5"
   },
-  "Elementary Mechanics Using Matlab": {
+  {
     "Book Title": "Elementary Mechanics Using Matlab",
     "DOI URL": "http://doi.org/10.1007/978-3-319-19587-2",
     "Electronic ISBN": "978-3-319-19587-2"
   },
-  "An Introduction to Biomechanics": {
+  {
     "Book Title": "An Introduction to Biomechanics",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-2623-7",
     "Electronic ISBN": "978-1-4939-2623-7"
   },
-  "New Introduction to Multiple Time Series Analysis": {
+  {
     "Book Title": "New Introduction to Multiple Time Series Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-540-27752-1",
     "Electronic ISBN": "978-3-540-27752-1"
   },
-  "Introduction to Data Science": {
+  {
     "Book Title": "Introduction to Data Science",
     "DOI URL": "http://doi.org/10.1007/978-3-319-50017-1",
     "Electronic ISBN": "978-3-319-50017-1"
   },
-  "Calculus With Applications": {
+  {
     "Book Title": "Calculus With Applications",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-7946-8",
     "Electronic ISBN": "978-1-4614-7946-8"
   },
-  "An Introduction to Soil Mechanics": {
+  {
     "Book Title": "An Introduction to Soil Mechanics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-61185-3",
     "Electronic ISBN": "978-3-319-61185-3"
   },
-  "Game Theory": {
+  {
     "Book Title": "Game Theory",
     "DOI URL": "http://doi.org/10.1007/978-3-662-46950-7",
     "Electronic ISBN": "978-3-662-46950-7"
   },
-  "Fundamentals of Clinical Trials": {
+  {
     "Book Title": "Fundamentals of Clinical Trials",
     "DOI URL": "http://doi.org/10.1007/978-3-319-18539-2",
     "Electronic ISBN": "978-3-319-18539-2"
   },
-  "The Finite Volume Method in Computational Fluid Dynamics": {
+  {
     "Book Title": "The Finite Volume Method in Computational Fluid Dynamics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-16874-6",
     "Electronic ISBN": "978-3-319-16874-6"
   },
-  "The ASCRS Textbook of Colon and Rectal Surgery": {
+  {
     "Book Title": "The ASCRS Textbook of Colon and Rectal Surgery",
     "DOI URL": "http://doi.org/10.1007/978-3-319-25970-3",
     "Electronic ISBN": "978-3-319-25970-3"
   },
-  "Applied Predictive Modeling": {
+  {
     "Book Title": "Applied Predictive Modeling",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-6849-3",
     "Electronic ISBN": "978-1-4614-6849-3"
   },
-  "Introduction to Logic Circuits & Logic Design with VHDL ": {
+  {
     "Book Title": "Introduction to Logic Circuits & Logic Design with VHDL ",
-    "DOI URL": "http://doi.org/10.1007/978-3-030-12489-2",
-    "Electronic ISBN": "978-3-030-12489-2"
+    "DOI URL": "http://doi.org/10.1007/978-3-319-34195-8",
+    "Electronic ISBN": "978-3-319-34195-8"
   },
-  "Sustainability Science": {
+  {
     "Book Title": "Sustainability Science",
     "DOI URL": "http://doi.org/10.1007/978-94-017-7242-6",
     "Electronic ISBN": "978-94-017-7242-6"
   },
-  "Physical Chemistry from a Different Angle": {
+  {
     "Book Title": "Physical Chemistry from a Different Angle",
     "DOI URL": "http://doi.org/10.1007/978-3-319-15666-8",
     "Electronic ISBN": "978-3-319-15666-8"
   },
-  "The Physics of Semiconductors": {
+  {
     "Book Title": "The Physics of Semiconductors",
     "DOI URL": "http://doi.org/10.1007/978-3-319-23880-7",
     "Electronic ISBN": "978-3-319-23880-7"
   },
-  "Energy Harvesting and Energy Efficiency": {
+  {
     "Book Title": "Energy Harvesting and Energy Efficiency",
     "DOI URL": "http://doi.org/10.1007/978-3-319-49875-1",
     "Electronic ISBN": "978-3-319-49875-1"
   },
-  "Python For ArcGIS": {
+  {
     "Book Title": "Python For ArcGIS",
     "DOI URL": "http://doi.org/10.1007/978-3-319-18398-5",
     "Electronic ISBN": "978-3-319-18398-5"
   },
-  "Statics and Mechanics of Structures": {
+  {
     "Book Title": "Statics and Mechanics of Structures",
     "DOI URL": "http://doi.org/10.1007/978-94-007-6113-1",
     "Electronic ISBN": "978-94-007-6113-1"
   },
-  "Real Analysis": {
+  {
     "Book Title": "Real Analysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-2766-1",
     "Electronic ISBN": "978-1-4939-2766-1"
   },
-  "MATLAB for Psychologists": {
+  {
     "Book Title": "MATLAB for Psychologists",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-2197-9",
     "Electronic ISBN": "978-1-4614-2197-9"
   },
-  "Physical Asset Management": {
+  {
     "Book Title": "Physical Asset Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-14777-2",
     "Electronic ISBN": "978-3-319-14777-2"
   },
-  "Essentials of Food Science": {
+  {
     "Book Title": "Essentials of Food Science",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-9138-5",
     "Electronic ISBN": "978-1-4614-9138-5"
   },
-  "Concise Guide to Databases": {
+  {
+    "Book Title": "Quantum Mechanics",
+    "DOI URL": "http://doi.org/10.1007/978-1-4612-1272-0",
+    "Electronic ISBN": "978-1-4612-1272-0"
+  },
+  {
+    "Book Title": "Probability Theory",
+    "DOI URL": "http://doi.org/10.1007/978-1-4471-5361-0",
+    "Electronic ISBN": "978-1-4471-5361-0"
+  },
+  {
     "Book Title": "Concise Guide to Databases",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-5601-7",
     "Electronic ISBN": "978-1-4471-5601-7"
   },
-  "Digital Image Processing": {
+  {
     "Book Title": "Digital Image Processing",
     "DOI URL": "http://doi.org/10.1007/978-1-4471-6684-9",
     "Electronic ISBN": "978-1-4471-6684-9"
   },
-  "Chemical and Bioprocess Engineering": {
+  {
     "Book Title": "Chemical and Bioprocess Engineering",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-9126-2",
     "Electronic ISBN": "978-1-4614-9126-2"
   },
-  "Guide to Computer Network Security": {
+  {
+    "Book Title": "Transmission Electron Microscopy",
+    "DOI URL": "http://doi.org/10.1007/978-1-4757-2519-3",
+    "Electronic ISBN": "978-1-4757-2519-3"
+  },
+  {
     "Book Title": "Guide to Computer Network Security",
     "DOI URL": "http://doi.org/10.1007/978-3-319-55606-2",
     "Electronic ISBN": "978-3-319-55606-2"
   },
-  "Introduction to Law": {
+  {
     "Book Title": "Introduction to Law",
     "DOI URL": "http://doi.org/10.1007/978-3-319-57252-9",
     "Electronic ISBN": "978-3-319-57252-9"
   },
-  "Advanced Quantum Mechanics": {
+  {
     "Book Title": "Advanced Quantum Mechanics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-25675-7",
     "Electronic ISBN": "978-3-319-25675-7"
   },
-  "Bayesian Essentials with R": {
+  {
     "Book Title": "Bayesian Essentials with R",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-8687-9",
     "Electronic ISBN": "978-1-4614-8687-9"
   },
-  "Applied Chemistry": {
+  {
+    "Book Title": "Robotics, Vision and Control",
+    "DOI URL": "http://doi.org/10.1007/978-3-642-20144-8",
+    "Electronic ISBN": "978-3-642-20144-8"
+  },
+  {
     "Book Title": "Applied Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-1-4614-4262-2",
     "Electronic ISBN": "978-1-4614-4262-2"
   },
-  "Advanced Organic Chemistry": {
+  {
+    "Book Title": "Advanced Organic Chemistry",
+    "DOI URL": "http://doi.org/10.1007/978-0-387-44899-2",
+    "Electronic ISBN": "978-0-387-44899-2"
+  },
+  {
     "Book Title": "Advanced Organic Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-0-387-71481-3",
     "Electronic ISBN": "978-0-387-71481-3"
   },
-  "International Humanitarian Action": {
+  {
     "Book Title": "International Humanitarian Action",
     "DOI URL": "http://doi.org/10.1007/978-3-319-14454-2",
     "Electronic ISBN": "978-3-319-14454-2"
   },
-  "Breast Cancer": {
+  {
     "Book Title": "Breast Cancer",
     "DOI URL": "http://doi.org/10.1007/978-3-319-48848-6",
     "Electronic ISBN": "978-3-319-48848-6"
   },
-  "Travel Marketing, Tourism Economics and the Airline Product": {
+  {
     "Book Title": "Travel Marketing, Tourism Economics and the Airline Product",
     "DOI URL": "http://doi.org/10.1007/978-3-319-49849-2",
     "Electronic ISBN": "978-3-319-49849-2"
   },
-  "Electronic Commerce 2018": {
+  {
     "Book Title": "Electronic Commerce 2018",
     "DOI URL": "http://doi.org/10.1007/978-3-319-58715-8",
     "Electronic ISBN": "978-3-319-58715-8"
   },
-  "Disability and Vocational Rehabilitation in Rural Settings": {
+  {
     "Book Title": "Disability and Vocational Rehabilitation in Rural Settings",
     "DOI URL": "http://doi.org/10.1007/978-3-319-64786-9",
     "Electronic ISBN": "978-3-319-64786-9"
   },
-  "Teaching Medicine and Medical Ethics Using Popular Culture": {
+  {
     "Book Title": "Teaching Medicine and Medical Ethics Using Popular Culture",
     "DOI URL": "http://doi.org/10.1007/978-3-319-65451-5",
     "Electronic ISBN": "978-3-319-65451-5"
   },
-  "Market Research": {
+  {
     "Book Title": "Market Research",
     "DOI URL": "http://doi.org/10.1007/978-981-10-5218-7",
     "Electronic ISBN": "978-981-10-5218-7"
   },
-  "Scanning Electron Microscopy and X-Ray Microanalysis": {
+  {
     "Book Title": "Scanning Electron Microscopy and X-Ray Microanalysis",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-6676-9",
     "Electronic ISBN": "978-1-4939-6676-9"
   },
-  "ArcGIS for Environmental and Water Issues": {
+  {
     "Book Title": "ArcGIS for Environmental and Water Issues",
     "DOI URL": "http://doi.org/10.1007/978-3-319-61158-7",
     "Electronic ISBN": "978-3-319-61158-7"
   },
-  "Physics from Symmetry": {
+  {
     "Book Title": "Physics from Symmetry",
     "DOI URL": "http://doi.org/10.1007/978-3-319-66631-0",
     "Electronic ISBN": "978-3-319-66631-0"
   },
-  "Communication and Bioethics at the End of Life": {
+  {
     "Book Title": "Communication and Bioethics at the End of Life",
     "DOI URL": "http://doi.org/10.1007/978-3-319-70920-8",
     "Electronic ISBN": "978-3-319-70920-8"
   },
-  "Foundations of Programming Languages": {
+  {
     "Book Title": "Foundations of Programming Languages",
     "DOI URL": "http://doi.org/10.1007/978-3-319-70790-7",
     "Electronic ISBN": "978-3-319-70790-7"
   },
-  "Problems in Classical Electromagnetism": {
+  {
     "Book Title": "Problems in Classical Electromagnetism",
     "DOI URL": "http://doi.org/10.1007/978-3-319-63133-2",
     "Electronic ISBN": "978-3-319-63133-2"
   },
-  "Polymer Chemistry": {
+  {
     "Book Title": "Polymer Chemistry",
     "DOI URL": "http://doi.org/10.1007/978-3-662-49279-6",
     "Electronic ISBN": "978-3-662-49279-6"
   },
-  "Probability and Statistics for Computer Science": {
+  {
     "Book Title": "Probability and Statistics for Computer Science",
     "DOI URL": "http://doi.org/10.1007/978-3-319-64410-3",
     "Electronic ISBN": "978-3-319-64410-3"
   },
-  "Empathetic Space on Screen": {
+  {
     "Book Title": "Empathetic Space on Screen",
     "DOI URL": "http://doi.org/10.1007/978-3-319-66772-0",
     "Electronic ISBN": "978-3-319-66772-0"
   },
-  "Political Social Work": {
+  {
     "Book Title": "Political Social Work",
     "DOI URL": "http://doi.org/10.1007/978-3-319-68588-5",
     "Electronic ISBN": "978-3-319-68588-5"
   },
-  "Introductory Quantum Mechanics": {
+  {
     "Book Title": "Introductory Quantum Mechanics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-68598-4",
     "Electronic ISBN": "978-3-319-68598-4"
   },
-  "Guide to Competitive Programming": {
+  {
     "Book Title": "Guide to Competitive Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-319-72547-5",
     "Electronic ISBN": "978-3-319-72547-5"
   },
-  "Introduction to Artificial Intelligence": {
+  {
     "Book Title": "Introduction to Artificial Intelligence",
     "DOI URL": "http://doi.org/10.1007/978-3-319-58487-4",
     "Electronic ISBN": "978-3-319-58487-4"
   },
-  "Bioinformatics for Evolutionary Biologists": {
+  {
     "Book Title": "Bioinformatics for Evolutionary Biologists",
     "DOI URL": "http://doi.org/10.1007/978-3-319-67395-0",
     "Electronic ISBN": "978-3-319-67395-0"
   },
-  "Concepts, Methods and Practical Applications in Applied Demography": {
+  {
     "Book Title": "Concepts, Methods and Practical Applications in Applied Demography",
     "DOI URL": "http://doi.org/10.1007/978-3-319-65439-3",
     "Electronic ISBN": "978-3-319-65439-3"
   },
-  "Introduction to Deep Learning": {
+  {
     "Book Title": "Introduction to Deep Learning",
     "DOI URL": "http://doi.org/10.1007/978-3-319-73004-2",
     "Electronic ISBN": "978-3-319-73004-2"
   },
-  "Energy and the Wealth of Nations": {
+  {
     "Book Title": "Energy and the Wealth of Nations",
     "DOI URL": "http://doi.org/10.1007/978-3-319-66219-0",
     "Electronic ISBN": "978-3-319-66219-0"
   },
-  "A Beginner's Guide to Scala, Object Orientation and Functional Programming": {
+  {
     "Book Title": "A Beginner's Guide to Scala, Object Orientation and Functional Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-319-75771-1",
     "Electronic ISBN": "978-3-319-75771-1"
   },
-  "Lessons on Synthetic Bioarchitectures": {
+  {
     "Book Title": "Lessons on Synthetic Bioarchitectures",
     "DOI URL": "http://doi.org/10.1007/978-3-319-73123-0",
     "Electronic ISBN": "978-3-319-73123-0"
   },
-  "Managing Sustainable Business": {
+  {
     "Book Title": "Managing Sustainable Business",
     "DOI URL": "http://doi.org/10.1007/978-94-024-1144-7",
     "Electronic ISBN": "978-94-024-1144-7"
   },
-  "Engineering Mechanics 2": {
+  {
     "Book Title": "Engineering Mechanics 2",
     "DOI URL": "http://doi.org/10.1007/978-3-662-56272-7",
     "Electronic ISBN": "978-3-662-56272-7"
   },
-  "Clinical Methods in Medical Family Therapy": {
+  {
+    "Book Title": "Fundamentals of Business Process Management",
+    "DOI URL": "http://doi.org/10.1007/978-3-662-56509-4",
+    "Electronic ISBN": "978-3-662-56509-4"
+  },
+  {
     "Book Title": "Clinical Methods in Medical Family Therapy",
     "DOI URL": "http://doi.org/10.1007/978-3-319-68834-3",
     "Electronic ISBN": "978-3-319-68834-3"
   },
-  "Guide to Scientific Computing in C++": {
+  {
     "Book Title": "Guide to Scientific Computing in C++",
     "DOI URL": "http://doi.org/10.1007/978-3-319-73132-2",
     "Electronic ISBN": "978-3-319-73132-2"
   },
-  "Motivation and Action ": {
+  {
     "Book Title": "Motivation and Action ",
     "DOI URL": "http://doi.org/10.1007/978-3-319-65094-4",
     "Electronic ISBN": "978-3-319-65094-4"
   },
-  "Perspectives on Elderly Crime and Victimization": {
+  {
     "Book Title": "Perspectives on Elderly Crime and Victimization",
     "DOI URL": "http://doi.org/10.1007/978-3-319-72682-3",
     "Electronic ISBN": "978-3-319-72682-3"
   },
-  "Knowledge Management": {
+  {
     "Book Title": "Knowledge Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-59978-6",
     "Electronic ISBN": "978-3-319-59978-6"
   },
-  "An Introduction to Zooarchaeology": {
+  {
     "Book Title": "An Introduction to Zooarchaeology",
     "DOI URL": "http://doi.org/10.1007/978-3-319-65682-3",
     "Electronic ISBN": "978-3-319-65682-3"
   },
-  "Abstract Algebra": {
+  {
     "Book Title": "Abstract Algebra",
     "DOI URL": "http://doi.org/10.1007/978-3-319-77649-1",
     "Electronic ISBN": "978-3-319-77649-1"
   },
-  "Criminal Justice and Mental Health": {
+  {
     "Book Title": "Criminal Justice and Mental Health",
     "DOI URL": "http://doi.org/10.1007/978-3-319-76442-9",
     "Electronic ISBN": "978-3-319-76442-9"
   },
-  "Philosophy of Race": {
+  {
     "Book Title": "Philosophy of Race",
     "DOI URL": "http://doi.org/10.1007/978-3-319-78729-9",
     "Electronic ISBN": "978-3-319-78729-9"
   },
-  "Of Cigarettes, High Heels, and Other Interesting Things": {
+  {
     "Book Title": "Of Cigarettes, High Heels, and Other Interesting Things",
     "DOI URL": "http://doi.org/10.1057/978-1-349-95348-6",
     "Electronic ISBN": "978-1-349-95348-6"
   },
-  "Applied Bioinformatics": {
+  {
     "Book Title": "Applied Bioinformatics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-68301-0",
     "Electronic ISBN": "978-3-319-68301-0"
   },
-  "Linear Algebra and Analytic Geometry for Physical Sciences": {
+  {
     "Book Title": "Linear Algebra and Analytic Geometry for Physical Sciences",
     "DOI URL": "http://doi.org/10.1007/978-3-319-78361-1",
     "Electronic ISBN": "978-3-319-78361-1"
   },
-  "Building Energy Modeling with OpenStudio": {
+  {
     "Book Title": "Building Energy Modeling with OpenStudio",
     "DOI URL": "http://doi.org/10.1007/978-3-319-77809-9",
     "Electronic ISBN": "978-3-319-77809-9"
   },
-  "Customer Relationship Management": {
+  {
     "Book Title": "Customer Relationship Management",
     "DOI URL": "http://doi.org/10.1007/978-3-662-55381-7",
     "Electronic ISBN": "978-3-662-55381-7"
   },
-  "The A-Z of the PhD Trajectory": {
+  {
     "Book Title": "The A-Z of the PhD Trajectory",
     "DOI URL": "http://doi.org/10.1007/978-3-319-77425-1",
     "Electronic ISBN": "978-3-319-77425-1"
   },
-  "Strategic Human Resource Management and Employment Relations": {
+  {
     "Book Title": "Strategic Human Resource Management and Employment Relations",
     "DOI URL": "http://doi.org/10.1007/978-981-13-0399-9",
     "Electronic ISBN": "978-981-13-0399-9"
   },
-  "Applied Linear Algebra": {
+  {
     "Book Title": "Applied Linear Algebra",
     "DOI URL": "http://doi.org/10.1007/978-3-319-91041-3",
     "Electronic ISBN": "978-3-319-91041-3"
   },
-  "Witnessing Torture": {
+  {
     "Book Title": "Witnessing Torture",
     "DOI URL": "http://doi.org/10.1007/978-3-319-74965-5",
     "Electronic ISBN": "978-3-319-74965-5"
   },
-  "Proofs from THE BOOK": {
+  {
     "Book Title": "Proofs from THE BOOK",
     "DOI URL": "http://doi.org/10.1007/978-3-662-57265-8",
     "Electronic ISBN": "978-3-662-57265-8"
   },
-  "Introduction to General Relativity": {
+  {
     "Book Title": "Introduction to General Relativity",
     "DOI URL": "http://doi.org/10.1007/978-981-13-1090-4",
     "Electronic ISBN": "978-981-13-1090-4"
   },
-  "Introduction to Particle and Astroparticle Physics": {
+  {
     "Book Title": "Introduction to Particle and Astroparticle Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-78181-5",
     "Electronic ISBN": "978-3-319-78181-5"
   },
-  "Fundamentals of Java Programming": {
+  {
     "Book Title": "Fundamentals of Java Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-319-89491-1",
     "Electronic ISBN": "978-3-319-89491-1"
   },
-  "Optimization of Process Flowsheets through Metaheuristic Techniques ": {
+  {
     "Book Title": "Optimization of Process Flowsheets through Metaheuristic Techniques ",
     "DOI URL": "http://doi.org/10.1007/978-3-319-91722-1",
     "Electronic ISBN": "978-3-319-91722-1"
   },
-  "Business Ethics - A Philosophical and Behavioral Approach": {
+  {
+    "Book Title": "Robotics",
+    "DOI URL": "http://doi.org/10.1007/978-3-319-72911-4",
+    "Electronic ISBN": "978-3-319-72911-4"
+  },
+  {
     "Book Title": "Business Ethics - A Philosophical and Behavioral Approach",
     "DOI URL": "http://doi.org/10.1007/978-3-319-91575-3",
     "Electronic ISBN": "978-3-319-91575-3"
   },
-  "A First Introduction to Quantum Physics": {
+  {
     "Book Title": "A First Introduction to Quantum Physics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-92207-2",
     "Electronic ISBN": "978-3-319-92207-2"
   },
-  "Argumentation Theory: A Pragma-Dialectical Perspective": {
+  {
     "Book Title": "Argumentation Theory: A Pragma-Dialectical Perspective",
     "DOI URL": "http://doi.org/10.1007/978-3-319-95381-6",
     "Electronic ISBN": "978-3-319-95381-6"
   },
-  "Logical Foundations of Cyber-Physical Systems": {
+  {
     "Book Title": "Logical Foundations of Cyber-Physical Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-319-63588-0",
     "Electronic ISBN": "978-3-319-63588-0"
   },
-  "Off-Grid Electrical Systems in Developing Countries": {
+  {
     "Book Title": "Off-Grid Electrical Systems in Developing Countries",
     "DOI URL": "http://doi.org/10.1007/978-3-319-91890-7",
     "Electronic ISBN": "978-3-319-91890-7"
   },
-  "Entertainment Science": {
+  {
     "Book Title": "Entertainment Science",
     "DOI URL": "http://doi.org/10.1007/978-3-319-89292-4",
     "Electronic ISBN": "978-3-319-89292-4"
   },
-  "Physics of Oscillations and Waves": {
+  {
     "Book Title": "Physics of Oscillations and Waves",
     "DOI URL": "http://doi.org/10.1007/978-3-319-72314-3",
     "Electronic ISBN": "978-3-319-72314-3"
   },
-  "Introduction to Programming with Fortran": {
+  {
     "Book Title": "Introduction to Programming with Fortran",
     "DOI URL": "http://doi.org/10.1007/978-3-319-75502-1",
     "Electronic ISBN": "978-3-319-75502-1"
   },
-  "Fundamentals of Solid State Engineering": {
+  {
     "Book Title": "Fundamentals of Solid State Engineering",
     "DOI URL": "http://doi.org/10.1007/978-3-319-75708-7",
     "Electronic ISBN": "978-3-319-75708-7"
   },
-  "Introduction to Digital Systems Design": {
+  {
     "Book Title": "Introduction to Digital Systems Design",
     "DOI URL": "http://doi.org/10.1007/978-3-319-92804-3",
     "Electronic ISBN": "978-3-319-92804-3"
   },
-  "Neural Networks and Deep Learning": {
+  {
     "Book Title": "Neural Networks and Deep Learning",
     "DOI URL": "http://doi.org/10.1007/978-3-319-94463-0",
     "Electronic ISBN": "978-3-319-94463-0"
   },
-  "Data Science and Predictive Analytics": {
+  {
     "Book Title": "Data Science and Predictive Analytics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-72347-1",
     "Electronic ISBN": "978-3-319-72347-1"
   },
-  "Systems Programming in Unix/Linux": {
+  {
     "Book Title": "Systems Programming in Unix/Linux",
     "DOI URL": "http://doi.org/10.1007/978-3-319-92429-8",
     "Electronic ISBN": "978-3-319-92429-8"
   },
-  "Analytical Corporate Finance": {
+  {
     "Book Title": "Analytical Corporate Finance",
     "DOI URL": "http://doi.org/10.1007/978-3-319-95762-3",
     "Electronic ISBN": "978-3-319-95762-3"
   },
-  "Fraud and Corruption": {
+  {
     "Book Title": "Fraud and Corruption",
     "DOI URL": "http://doi.org/10.1007/978-3-319-92333-8",
     "Electronic ISBN": "978-3-319-92333-8"
   },
-  "Conferencing and Presentation English for Young Academics": {
+  {
     "Book Title": "Conferencing and Presentation English for Young Academics",
     "DOI URL": "http://doi.org/10.1007/978-981-13-2475-8",
     "Electronic ISBN": "978-981-13-2475-8"
   },
-  "A Concise Guide to Market Research": {
+  {
     "Book Title": "A Concise Guide to Market Research",
     "DOI URL": "http://doi.org/10.1007/978-3-662-56707-4",
     "Electronic ISBN": "978-3-662-56707-4"
   },
-  "Global Supply Chain and Operations Management": {
+  {
     "Book Title": "Global Supply Chain and Operations Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-94313-8",
     "Electronic ISBN": "978-3-319-94313-8"
   },
-  "Introduction to Parallel Computing": {
+  {
     "Book Title": "Introduction to Parallel Computing",
     "DOI URL": "http://doi.org/10.1007/978-3-319-98833-7",
     "Electronic ISBN": "978-3-319-98833-7"
   },
-  "Mathematical Logic": {
+  {
     "Book Title": "Mathematical Logic",
     "DOI URL": "http://doi.org/10.1007/978-3-319-97298-5",
     "Electronic ISBN": "978-3-319-97298-5"
   },
-  "Stability and Control of Linear Systems": {
+  {
     "Book Title": "Stability and Control of Linear Systems",
     "DOI URL": "http://doi.org/10.1007/978-3-030-02405-5",
     "Electronic ISBN": "978-3-030-02405-5"
   },
-  "Introduction to Formal Philosophy": {
+  {
     "Book Title": "Introduction to Formal Philosophy",
     "DOI URL": "http://doi.org/10.1007/978-3-319-77434-3",
     "Electronic ISBN": "978-3-319-77434-3"
   },
-  "Analysis for Computer Scientists": {
+  {
     "Book Title": "Analysis for Computer Scientists",
     "DOI URL": "http://doi.org/10.1007/978-3-319-91155-7",
     "Electronic ISBN": "978-3-319-91155-7"
   },
-  "International Business Management": {
+  {
     "Book Title": "International Business Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-96622-9",
     "Electronic ISBN": "978-3-319-96622-9"
   },
-  "Research Methods for the Digital Humanities": {
+  {
     "Book Title": "Research Methods for the Digital Humanities",
     "DOI URL": "http://doi.org/10.1007/978-3-319-96713-4",
     "Electronic ISBN": "978-3-319-96713-4"
   },
-  "Introductory Computer Forensics": {
+  {
     "Book Title": "Introductory Computer Forensics",
     "DOI URL": "http://doi.org/10.1007/978-3-030-00581-8",
     "Electronic ISBN": "978-3-030-00581-8"
   },
-  "Control Engineering": {
+  {
     "Book Title": "Control Engineering",
     "DOI URL": "http://doi.org/10.1007/978-981-10-8297-9",
     "Electronic ISBN": "978-981-10-8297-9"
   },
-  "Control Engineering: MATLAB Exercises": {
+  {
     "Book Title": "Control Engineering: MATLAB Exercises",
     "DOI URL": "http://doi.org/10.1007/978-981-10-8321-1",
     "Electronic ISBN": "978-981-10-8321-1"
   },
-  "ENZYMES: Catalysis, Kinetics and Mechanisms": {
+  {
     "Book Title": "ENZYMES: Catalysis, Kinetics and Mechanisms",
     "DOI URL": "http://doi.org/10.1007/978-981-13-0785-0",
     "Electronic ISBN": "978-981-13-0785-0"
   },
-  "Automatic Control with Experiments": {
+  {
     "Book Title": "Automatic Control with Experiments",
     "DOI URL": "http://doi.org/10.1007/978-3-319-75804-6",
     "Electronic ISBN": "978-3-319-75804-6"
   },
-  "Internet of Things From Hype to Reality": {
+  {
     "Book Title": "Internet of Things From Hype to Reality",
     "DOI URL": "http://doi.org/10.1007/978-3-319-99516-8",
     "Electronic ISBN": "978-3-319-99516-8"
   },
-  "Quantitative Methods for the Social Sciences": {
+  {
     "Book Title": "Quantitative Methods for the Social Sciences",
     "DOI URL": "http://doi.org/10.1007/978-3-319-99118-4",
     "Electronic ISBN": "978-3-319-99118-4"
   },
-  "A Pythagorean Introduction to Number Theory": {
+  {
     "Book Title": "A Pythagorean Introduction to Number Theory",
     "DOI URL": "http://doi.org/10.1007/978-3-030-02604-2",
     "Electronic ISBN": "978-3-030-02604-2"
   },
-  "Philosophical and Mathematical Logic": {
+  {
     "Book Title": "Philosophical and Mathematical Logic",
     "DOI URL": "http://doi.org/10.1007/978-3-030-03255-5",
     "Electronic ISBN": "978-3-030-03255-5"
   },
-  "Structural Dynamics": {
+  {
     "Book Title": "Structural Dynamics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-94743-3",
     "Electronic ISBN": "978-3-319-94743-3"
   },
-  "Plant Physiology, Development and Metabolism": {
+  {
     "Book Title": "Plant Physiology, Development and Metabolism",
     "DOI URL": "http://doi.org/10.1007/978-981-13-2023-1",
     "Electronic ISBN": "978-981-13-2023-1"
   },
-  "Quantum Mechanics for Pedestrians 1": {
+  {
     "Book Title": "Quantum Mechanics for Pedestrians 1",
     "DOI URL": "http://doi.org/10.1007/978-3-030-00464-4",
     "Electronic ISBN": "978-3-030-00464-4"
   },
-  "Plant Anatomy": {
+  {
     "Book Title": "Plant Anatomy",
     "DOI URL": "http://doi.org/10.1007/978-3-319-77315-5",
     "Electronic ISBN": "978-3-319-77315-5"
   },
-  "Quantum Mechanics for Pedestrians 2": {
+  {
     "Book Title": "Quantum Mechanics for Pedestrians 2",
     "DOI URL": "http://doi.org/10.1007/978-3-030-00467-5",
     "Electronic ISBN": "978-3-030-00467-5"
   },
-  "Excel Data Analysis": {
+  {
     "Book Title": "Excel Data Analysis",
     "DOI URL": "http://doi.org/10.1007/978-3-030-01279-3",
     "Electronic ISBN": "978-3-030-01279-3"
   },
-  "Quick Start Guide to VHDL": {
+  {
     "Book Title": "Quick Start Guide to VHDL",
     "DOI URL": "http://doi.org/10.1007/978-3-030-04516-6",
     "Electronic ISBN": "978-3-030-04516-6"
   },
-  "Java in Two Semesters": {
+  {
     "Book Title": "Java in Two Semesters",
     "DOI URL": "http://doi.org/10.1007/978-3-319-99420-8",
     "Electronic ISBN": "978-3-319-99420-8"
   },
-  "Managing Media and Digital Organizations": {
+  {
     "Book Title": "Managing Media and Digital Organizations",
     "DOI URL": "http://doi.org/10.1007/978-3-319-71288-8",
     "Electronic ISBN": "978-3-319-71288-8"
   },
-  "Media and Digital Management": {
+  {
     "Book Title": "Media and Digital Management",
     "DOI URL": "http://doi.org/10.1007/978-3-319-72000-5",
     "Electronic ISBN": "978-3-319-72000-5"
   },
-  "An Anthology of London in Literature, 1558-1914": {
+  {
     "Book Title": "An Anthology of London in Literature, 1558-1914",
     "DOI URL": "http://doi.org/10.1007/978-3-030-05609-4",
     "Electronic ISBN": "978-3-030-05609-4"
   },
-  "Astronautics": {
+  {
     "Book Title": "Astronautics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-74373-8",
     "Electronic ISBN": "978-3-319-74373-8"
   },
-  "Perceptual Organization": {
+  {
     "Book Title": "Perceptual Organization",
     "DOI URL": "http://doi.org/10.1007/978-3-319-96337-2",
     "Electronic ISBN": "978-3-319-96337-2"
   },
-  "Research Methods for Social Justice and Equity in Education": {
+  {
     "Book Title": "Research Methods for Social Justice and Equity in Education",
     "DOI URL": "http://doi.org/10.1007/978-3-030-05900-2",
     "Electronic ISBN": "978-3-030-05900-2"
   },
-  "Educational Technology": {
+  {
     "Book Title": "Educational Technology",
     "DOI URL": "http://doi.org/10.1007/978-981-13-6643-7",
     "Electronic ISBN": "978-981-13-6643-7"
   },
-  "Quick Start Guide to Verilog": {
+  {
     "Book Title": "Quick Start Guide to Verilog",
     "DOI URL": "http://doi.org/10.1007/978-3-030-10552-5",
     "Electronic ISBN": "978-3-030-10552-5"
   },
-  "Spine Surgery": {
+  {
     "Book Title": "Spine Surgery",
     "DOI URL": "http://doi.org/10.1007/978-3-319-98875-7",
     "Electronic ISBN": "978-3-319-98875-7"
   },
-  "Social Justice Theory and Practice for Social Work": {
+  {
+    "Book Title": "Introduction to Logic Circuits & Logic Design with VHDL ",
+    "DOI URL": "http://doi.org/10.1007/978-3-030-12489-2",
+    "Electronic ISBN": "978-3-030-12489-2"
+  },
+  {
     "Book Title": "Social Justice Theory and Practice for Social Work",
     "DOI URL": "http://doi.org/10.1007/978-981-13-3621-8",
     "Electronic ISBN": "978-981-13-3621-8"
   },
-  "School Leadership and Educational Change in Singapore": {
+  {
     "Book Title": "School Leadership and Educational Change in Singapore",
     "DOI URL": "http://doi.org/10.1007/978-3-319-74746-0",
     "Electronic ISBN": "978-3-319-74746-0"
   },
-  "Digital Business Models": {
+  {
     "Book Title": "Digital Business Models",
     "DOI URL": "http://doi.org/10.1007/978-3-030-13005-3",
     "Electronic ISBN": "978-3-030-13005-3"
   },
-  "Mapping Global Theatre Histories": {
+  {
+    "Book Title": "Introduction to Logic Circuits & Logic Design with Verilog",
+    "DOI URL": "http://doi.org/10.1007/978-3-030-13605-5",
+    "Electronic ISBN": "978-3-030-13605-5"
+  },
+  {
+    "Book Title": "Pharmaceutical Biotechnology",
+    "DOI URL": "http://doi.org/10.1007/978-3-030-00710-2",
+    "Electronic ISBN": "978-3-030-00710-2"
+  },
+  {
     "Book Title": "Mapping Global Theatre Histories",
     "DOI URL": "http://doi.org/10.1007/978-3-030-12727-5",
     "Electronic ISBN": "978-3-030-12727-5"
   },
-  "Social Marketing in Action": {
+  {
     "Book Title": "Social Marketing in Action",
     "DOI URL": "http://doi.org/10.1007/978-3-030-13020-6",
     "Electronic ISBN": "978-3-030-13020-6"
   },
-  "Analyzing Qualitative Data with MAXQDA": {
+  {
     "Book Title": "Analyzing Qualitative Data with MAXQDA",
     "DOI URL": "http://doi.org/10.1007/978-3-030-15671-8",
     "Electronic ISBN": "978-3-030-15671-8"
   },
-  "Handbook of Evolutionary Research in Archaeology": {
+  {
     "Book Title": "Handbook of Evolutionary Research in Archaeology",
     "DOI URL": "http://doi.org/10.1007/978-3-030-11117-5",
     "Electronic ISBN": "978-3-030-11117-5"
   },
-  "Evidence-Based Practice in Clinical Social Work": {
+  {
     "Book Title": "Evidence-Based Practice in Clinical Social Work",
     "DOI URL": "http://doi.org/10.1007/978-3-030-15224-6",
     "Electronic ISBN": "978-3-030-15224-6"
   },
-  "Foundations of Behavioral Health": {
+  {
     "Book Title": "Foundations of Behavioral Health",
     "DOI URL": "http://doi.org/10.1007/978-3-030-18435-3",
     "Electronic ISBN": "978-3-030-18435-3"
   },
-  "Social Psychology in Action": {
+  {
     "Book Title": "Social Psychology in Action",
     "DOI URL": "http://doi.org/10.1007/978-3-030-13788-5",
     "Electronic ISBN": "978-3-030-13788-5"
   },
-  "Essentials of Business Analytics": {
+  {
     "Book Title": "Essentials of Business Analytics",
     "DOI URL": "http://doi.org/10.1007/978-3-319-68837-4",
     "Electronic ISBN": "978-3-319-68837-4"
   },
-  "A Course in Rasch Measurement Theory": {
+  {
     "Book Title": "A Course in Rasch Measurement Theory",
     "DOI URL": "http://doi.org/10.1007/978-981-13-7496-8",
     "Electronic ISBN": "978-981-13-7496-8"
   },
-  "Multimedia Big Data Computing for IoT Applications": {
+  {
     "Book Title": "Multimedia Big Data Computing for IoT Applications",
     "DOI URL": "http://doi.org/10.1007/978-981-13-8759-3",
     "Electronic ISBN": "978-981-13-8759-3"
   },
-  "Policing and Minority Communities": {
+  {
     "Book Title": "Policing and Minority Communities",
     "DOI URL": "http://doi.org/10.1007/978-3-030-19182-5",
     "Electronic ISBN": "978-3-030-19182-5"
   },
-  "A Beginners Guide to Python 3 Programming": {
+  {
     "Book Title": "A Beginners Guide to Python 3 Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-030-20290-3",
     "Electronic ISBN": "978-3-030-20290-3"
   },
-  "Advanced Guide to Python 3 Programming": {
+  {
     "Book Title": "Advanced Guide to Python 3 Programming",
     "DOI URL": "http://doi.org/10.1007/978-3-030-25943-3",
     "Electronic ISBN": "978-3-030-25943-3"
   },
-  "Food Fraud Prevention": {
+  {
     "Book Title": "Food Fraud Prevention",
     "DOI URL": "http://doi.org/10.1007/978-1-4939-9621-6",
     "Electronic ISBN": "978-1-4939-9621-6"
   },
-  "Plant Ecology": {
+  {
     "Book Title": "Plant Ecology",
     "DOI URL": "http://doi.org/10.1007/978-3-662-56233-8",
     "Electronic ISBN": "978-3-662-56233-8"
   }
-}
+]

@@ -16,12 +16,34 @@ doi = 'DOI URL'
 eisbn = 'Electronic ISBN'
 sheet_name = 'eBook list'
 
+"""
+Duplicate Book Names:
 
-def read_and_parse_xlsx(filename) -> dict:
+('Ceramic Materials', 2)
+('Fundamentals of Biomechanics', 2)
+('Transmission Electron Microscopy', 2)
+('Introduction to Partial Differential Equations', 2)
+('Introduction to Logic Circuits & Logic Design with Verilog', 2)
+('Additive Manufacturing Technologies', 2)
+('Computational Physics', 2)
+('Fundamentals of Business Process Management', 2)
+('Strategic International Management', 2)
+('Robotics, Vision and Control', 2)
+('Probability Theory', 2)
+('Quantum Mechanics', 2)
+('Robotics', 2)
+('Pharmaceutical Biotechnology', 2)
+('Introduction to Logic Circuits & Logic Design with VHDL ', 2)
+('Advanced Organic Chemistry', 2)
+"""
+
+
+def read_and_parse_xlsx(filename) -> list:
     df = pd.read_excel(filename, sheet_name=sheet_name)
     df = df[[title, doi, eisbn]]
     dic = df.to_dict('records')
-    dic = {d[title]: d for d in dic}
+    # avoid duplicate names
+    # dic = {d[title]: d for d in dic}
     return dic
 
 
@@ -42,7 +64,11 @@ def format_download_url(doi):
 
 def download(url, name):
     try:
+        # replace '[:/]' by '_'
+        name = name.replace(':', '_').replace('/', '_')
         filename = name + '.pdf' if not name.endswith('.pdf') else name
+        if os.path.exists(filename):
+            return
         wget.download(url, filename)
     except:
         with open('log.log', 'a') as f:
@@ -58,14 +84,14 @@ def command():
 @click.argument('name')
 def by_name(name):
     prepare()
-    dic = {}
+    dic = []
     with open(name_eisbn_file, 'r') as f:
         dic = json.loads(f.read())
-    found = dic.get(name)
+    found = list(filter(lambda x: x[title] == name, dic))
     if not found:
         print('Book "%s" was not found.\n' % name)
         exit(1)
-    download(format_download_url(found[doi]), name)
+    [download(format_download_url(one[doi]), name) for one in found]
 
 
 @command.command(help='Download by Xlsx file')
@@ -73,11 +99,10 @@ def by_name(name):
                 type=click.Path(file_okay=True, dir_okay=False, exists=True))
 def by_xlsx(filename):
     dic = read_and_parse_xlsx(filename)
-    names = dic.keys()
-    with click.progressbar(names, length=len(names), label='Downloading...') as names:
-        for name in names:
-            url = format_download_url(dic[name][doi])
-            download(url, name)
+    with click.progressbar(dic, length=len(dic), label='Downloading...') as books:
+        for book in books:
+            url = format_download_url(book[doi])
+            download(url, book[title])
             time.sleep(1)
 
 

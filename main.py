@@ -37,6 +37,14 @@ Duplicate Book Names:
 ('Advanced Organic Chemistry', 2)
 """
 
+duplicate_names = {'Ceramic Materials', 'Fundamentals of Biomechanics', 'Transmission Electron Microscopy',
+                   'Introduction to Partial Differential Equations',
+                   'Introduction to Logic Circuits & Logic Design with Verilog', 'Additive Manufacturing Technologies',
+                   'Computational Physics', 'Fundamentals of Business Process Management',
+                   'Strategic International Management', 'Robotics, Vision and Control', 'Probability Theory',
+                   'Quantum Mechanics', 'Robotics', 'Pharmaceutical Biotechnology',
+                   'Introduction to Logic Circuits & Logic Design with VHDL ', 'Advanced Organic Chemistry'}
+
 
 def read_and_parse_xlsx(filename) -> list:
     df = pd.read_excel(filename, sheet_name=sheet_name)
@@ -67,7 +75,7 @@ def download(url, name):
         # replace '[:/]' by '_'
         name = name.replace(':', '_').replace('/', '_')
         filename = name + '.pdf' if not name.endswith('.pdf') else name
-        if os.path.exists(filename):
+        if os.path.exists(filename) and name not in duplicate_names:
             return
         wget.download(url, filename)
     except:
